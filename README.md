@@ -7,9 +7,6 @@ Humidity: Indicates the humidity level, e.g., 50%.
 
 Wind Speed: Provides wind speed information, e.g., 10 km/h.​
 
-⚙️ Technical Aspects
-While specific implementation details aren't provided on the site, it's common for such applications to utilize weather APIs like OpenWeatherMap to fetch real-time data. The app likely uses HTML, CSS, and JavaScript for its frontend development.​
-
 
 📝 Observations
 User Input: The app may not currently support user input for different cities, as it displays a fixed location.
