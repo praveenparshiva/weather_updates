@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body {
-    background: linear-gradient(135deg, #40c057 5%, #4dabf7 95%);
+    background-color: aquamarine;
   }
 .card{
     width: 90%;
